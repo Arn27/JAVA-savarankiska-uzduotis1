@@ -1,0 +1,2 @@
+# JAVA savarankiska uzduotis1
+ 
