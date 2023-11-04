@@ -12,7 +12,7 @@ public class Main {
         }
         scanner.close();
 
-        System.out.println("Ieškoma pirmo laimingas bilieto...");
+        System.out.println("Ieškoma pirmo laimingo bilieto...");
         findAndPrintFirstLuckyNumber();
     }
 
